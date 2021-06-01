@@ -3,6 +3,7 @@
   "version": "1.4.3",
   "description": "A simple to use discord.js slash command handler, which has features for all developers!",
   "main": "src/index.ts",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
